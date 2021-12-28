@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616013880 source:c:\users\bouru\documents\aa\tema1\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+
